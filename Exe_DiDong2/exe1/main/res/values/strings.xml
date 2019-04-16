@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Login Dialog Xuan Hoang</string>
+    <string name="loginSystem">Login system</string>
+    <string name="btnLogin">Login</string>
+    <string name="btnCancel">Cancel</string>
+    <string name="click">Click here login system</string>
+</resources>

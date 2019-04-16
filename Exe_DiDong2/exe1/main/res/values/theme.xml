@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Light" parent="Theme.AppCompat.Light">
+        <item name="pageBackground">@style/page_background_light</item>
+
+    </style>
+
+    <style name="Theme.Blue" parent="Theme.AppCompat.Light">
+        <item name="pageBackground">@style/page_background_blue</item>
+
+    </style>
+</resources>
